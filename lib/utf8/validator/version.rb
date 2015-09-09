@@ -1,5 +1,5 @@
 module Utf8
-  module Validator
+  class Validator
     VERSION = "0.1.0"
   end
 end
